@@ -1,6 +1,6 @@
-# Paddle-Pong
+# Virual-Pet
 
-A simple virtual pet game
+A simple virtual pet game.
 
 ## Description
 
@@ -8,10 +8,10 @@ A pet with a happy state of mind (draggable) pops in the background. It wants to
 
 ## Game Scoring
 
-Each apple: adds 20 points to its overall health
-Each toy: adds 20 points to its fun-health
-Each loop: adds 20 points to fun health
-Each candy: deducts 10 points from its overall health
+* Each apple: adds 20 points to its overall health
+* Each toy: adds 20 points to its fun-health
+* Each loop: adds 20 points to fun health
+* Each candy: deducts 10 points from its overall health
 
 ## Game Instructions
 
